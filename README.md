@@ -1,11 +1,4 @@
-<!-- ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-I am Omar Abdelghani, 
-
-
-
- -->
-<h1 align="center">Hi 👋, I'm Omar Abdelghani</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Omar Abdelghani</h1>
 <p>I am a software engineer at bld.ai and computer engineering student lvl 300 at Mansoura university. I am a competitive programmer(ECPC'22 Bronze medalist). I am interested in learning new technologies and learn more about compouter science basics.</p>
 
 
@@ -21,7 +14,9 @@ I am Omar Abdelghani,
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar622&show_icons=true&locale=en&layout=compact" alt="omar622" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar622&show_icons=true&locale=en" alt="omar622" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar622&show_icons=true&locale=en" alt="omar622" /></p> -->
+
+
 
 <!--
 **Omar622/Omar622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
