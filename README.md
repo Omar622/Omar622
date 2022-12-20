@@ -1,18 +1,18 @@
 <!-- ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am Omar Abdelghani, software engineer at bld.ai and computer engineering student lvl 300 at Mansoura university. I am a competitive programmer(ECPC'22 Bronze medalist). I am interested in learning new technologies and learn more about compouter science basics.
+I am Omar Abdelghani, 
 
 
 
  -->
 <h1 align="center">Hi 👋, I'm Omar Abdelghani</h1>
-<h3 align="center">A passionate fullstack developer from Egypt</h3>
+<h3 align="center">I am a software engineer at bld.ai and computer engineering student lvl 300 at Mansoura university. I am a competitive programmer(ECPC'22 Bronze medalist). I am interested in learning new technologies and learn more about compouter science basics.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="mailto:omaramin622@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" alt="omar abdel-ghani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omar-abdel-ghani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar abdel-ghani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omar-abdel-ghani-596062191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar abdel-ghani" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aot_erwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aot_erwin" height="30" width="40" /></a>
 </p>
 
