@@ -4,6 +4,7 @@ I am Omar Abdelghani, software engineer at bld.ai and computer engineering stude
 
 
 my Github stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar622)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
