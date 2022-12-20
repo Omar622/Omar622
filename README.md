@@ -6,7 +6,7 @@ I am Omar Abdelghani,
 
  -->
 <h1 align="center">Hi 👋, I'm Omar Abdelghani</h1>
-<h3 align="center">I am a software engineer at bld.ai and computer engineering student lvl 300 at Mansoura university. I am a competitive programmer(ECPC'22 Bronze medalist). I am interested in learning new technologies and learn more about compouter science basics.</h3>
+<p>I am a software engineer at bld.ai and computer engineering student lvl 300 at Mansoura university. I am a competitive programmer(ECPC'22 Bronze medalist). I am interested in learning new technologies and learn more about compouter science basics.</p>
 
 
 <h3 align="left">Connect with me:</h3>
