@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+I am Omar Abdelghani, software engineer at bld.ai and computer engineering student lvl 300 at Mansoura university. I am a competitive programmer(ECPC'22 Bronze medalist). I am interested in learning new technologies and learn more about compouter science basics.
+
+
+my Github stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar622)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Omar622/Omar622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
