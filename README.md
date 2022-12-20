@@ -3,17 +3,11 @@
 I am Omar Abdelghani, software engineer at bld.ai and computer engineering student lvl 300 at Mansoura university. I am a competitive programmer(ECPC'22 Bronze medalist). I am interested in learning new technologies and learn more about compouter science basics.
 
 
-my Github stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar622)](https://github.com/anuraghazra/github-readme-stats)
 
  -->
 <h1 align="center">Hi 👋, I'm Omar Abdelghani</h1>
 <h3 align="center">A passionate fullstack developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar622&label=Profile%20views&color=0e75b6&style=flat" alt="omar622" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar622" alt="omar622" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
