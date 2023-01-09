@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Omar Abdelghani</h1>
 <p>
- I am a computer engineer student lvl 300 at Mansoura university. I was a fullstack intern at bld.ai. I am a competitive programmer(ECPC'22 Bronze medalist) and interested in learning new technologies and learn more about compouter science basics. I’m currently open for an <strong>intern</strong> or a new <strong>job opportunity</strong>
+ I am a computer engineer student lvl 300 at Mansoura university. I was a fullstack intern at bld.ai. I am a competitive programmer(ECPC'22 Bronze medalist) and interested in learning new technologies and learn more about compouter science. I’m currently open for an <strong>intern</strong> or a new <strong>job opportunity</strong>
 </p>
 
 
